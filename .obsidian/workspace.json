@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "830f29bb4e73564b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ba62f6ad610520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4108fba911c6067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebswirschaftslehre/Einfuehrung_BWL/20261013_BWL_Einfuehrung_BWL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20261013_BWL_Einfuehrung_BWL"
+            }
+          },
+          {
+            "id": "3efe6ce5cd7decbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebswirschaftslehre/Buchfuehrung/20261012_BWL_Buchfuehrung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20261012_BWL_Buchfuehrung"
+            }
+          },
+          {
+            "id": "2ea3de11d538c2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebswirschaftslehre/HGB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HGB"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0802d37af0042852",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f3079e10d3b6ec",
+        "type": "tabs",
+        "dimension": 69.12568306010928,
+        "children": [
+          {
+            "id": "f5906938e072e510",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "5cba55a673612488",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "3e5d13aa437904ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22fd6418a5fe104c",
+        "type": "tabs",
+        "dimension": 30.874316939890715,
+        "children": [
+          {
+            "id": "40d011760a6ae3cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38d2de766d24314b",
+    "type": "split",
+    "children": [
+      {
+        "id": "60af3b4bb5c924c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "053a0128aac44656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Start/20261002.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ac367cb0f1ba5022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Start/20261002.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a4c1e7205c50c158",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07b979ece41d8da5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69661aea88db0adb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Start/20261002.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "3efe6ce5cd7decbf",
+  "lastOpenFiles": [
+    "Mathematik/20261016_Mathe.md",
+    "Data/Pdf/20261022_Mathe_U01.pdf",
+    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/Diskussion.md",
+    "Data/Pdf/20261013_BWL_Einfuehrung_BWL_Einfuehrung.pdf",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/20261013_BWL_Einfuehrung_BWL.md",
+    "Betriebswirschaftslehre/Buchfuehrung/20261012_BWL_Buchfuehrung.md",
+    "Data/Img/IMG20261002144733.jpg",
+    "Data/Img/IMG20260921161036.jpg",
+    "Data/Img/Pasted image 20261019091815.png",
+    "Betriebswirschaftslehre/HGB.md",
+    "Data/Img/Pasted image 20261019092017.png",
+    "Data/Img/Pasted image 20261020095423.png",
+    "Data/Img/Pasted image 20261020095454.png",
+    "Data/Img/Pasted image 20261020095513.png",
+    "Data/Pdf/20261016_Mathe.pdf",
+    "Informatik/Rechnerübung/20261014.md",
+    "Mathematik",
+    "Informatik/Einfuehrung_der_Programmierung/20261012_GdP_Einfuehrung_VL_1.md",
+    "Informatik/Rechnerübung",
+    "Data/Pdf/20261012_BWL_Buchfuehrung_Einfuehrung.pdf",
+    "Betriebswirschaftslehre/EStG.md",
+    "Data/Img/20261014_BWL_Einfuehrung_Marketing_Ablauf.png",
+    "Betriebswirschaftslehre/Vermögen.md",
+    "Betriebswirschaftslehre/Fremdkapital.md",
+    "Betriebswirschaftslehre/Eigenkapital.md",
+    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/20261014_BWL_Einfuehrung_Marketing.md",
+    "Data/Pdf/20261014_BWL_Einfuehrung_Marketing_KKV.pdf",
+    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing",
+    "Data/Pdf/20261013_BWL_Einfuehrung_BWL_Info.pdf",
+    "20261013_BWL_Einfuehrung_BWL_Einfuehrung.pdf.md",
+    "Wirschaftsinformatik/Einfuehrung_Wirtschaftsinformatik/20261012_WI_Einfuehrung_VL_1.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL",
+    "Data/Img/20261012_Buchfuehrung_Tutorien.png",
+    "Orga/20261002_Orga.md",
+    "Orga/20261008.md",
+    "Untitled.md",
+    "Test.md",
+    "Start/20261002.md",
+    "Data/Img/IMG20261002145434.jpg",
+    "Welcome.md"
+  ]
+}

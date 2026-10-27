@@ -1,0 +1,110 @@
+/* The same button in Reading view and Live Preview. --cbk-end and --cbk-top are measured from
+   the copy button or language label the button sits beside. */
+.cbk-button.clickable-icon {
+  --icon-size: var(--icon-s);
+  position: absolute;
+  top: var(--cbk-top, 6px);
+  right: var(--cbk-end, 6px);
+  z-index: 1;
+  padding: var(--size-2-2);
+  /* Opaque, so code that runs underneath is covered cleanly instead of showing through. */
+  background-color: var(--code-background);
+  color: var(--text-faint);
+}
+
+.cbk-button.clickable-icon:hover {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
+
+.cbk-button.clickable-icon.is-busy {
+  opacity: 0.5;
+  cursor: progress;
+}
+
+/* Reading view: keep the copy button on screen beside ours, as the language label is in Live
+   Preview. Otherwise its slot is empty until hover and the buttons shift when it appears. The
+   class is doubled to outrank the hover rule whatever order the sheets load in. */
+@media screen {
+  .markdown-rendered pre.cbk-block.cbk-block > button.copy-code-button {
+    display: inline-flex;
+  }
+}
+
+@media print {
+  .cbk-button {
+    display: none;
+  }
+}
+
+/* Run output */
+.cbk-output {
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background: var(--background-secondary);
+}
+
+.markdown-rendered .cbk-output {
+  margin-block: 0 var(--p-spacing);
+}
+
+.cbk-output-host {
+  padding-block: var(--size-2-3);
+}
+
+.cbk-output-bar {
+  display: flex;
+  align-items: center;
+  gap: var(--size-2-1);
+  padding: var(--size-2-1) var(--size-2-3) var(--size-2-1) var(--size-4-3);
+  color: var(--text-muted);
+  font-family: var(--font-interface);
+  font-size: var(--font-ui-smaller);
+}
+
+.cbk-output-status {
+  flex: 1;
+}
+
+.cbk-output.is-error .cbk-output-status {
+  color: var(--text-error);
+}
+
+.cbk-output-button {
+  --icon-size: var(--icon-xs);
+}
+
+.cbk-output-body {
+  overflow: auto;
+  max-height: 24em;
+  padding: var(--size-4-2) var(--size-4-3);
+  border-top: 1px solid var(--background-modifier-border);
+  color: var(--code-normal);
+  font-family: var(--font-monospace);
+  font-size: var(--code-size);
+  line-height: var(--line-height-normal);
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  user-select: text;
+}
+
+.cbk-output.is-stale .cbk-output-body {
+  opacity: 0.5;
+}
+
+.cbk-hidden {
+  display: none;
+}
+
+.cbk-output-body:empty {
+  display: none;
+}
+
+.cbk-stderr {
+  color: var(--text-error);
+}
+
+.cbk-truncated {
+  color: var(--text-faint);
+}
