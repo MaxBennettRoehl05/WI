@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "3efe6ce5cd7decbf",
+            "id": "9882992a740977d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Betriebswirschaftslehre/Buchfuehrung/20261012_BWL_Buchfuehrung.md",
+                "file": "Betriebswirschaftslehre/Einfuehrung_BWL/z20261013_BWL_Einfuehrung_BWL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20261012_BWL_Buchfuehrung"
+              "title": "z20261013_BWL_Einfuehrung_BWL"
+            }
+          },
+          {
+            "id": "a725f53c00aae015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/Diskussion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diskussion"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,47 +249,52 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "3efe6ce5cd7decbf",
+  "active": "a725f53c00aae015",
   "lastOpenFiles": [
-    "Mathematik/20261016_Mathe.md",
+    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/20261014_BWL_Einfuehrung_Marketing.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/01_Gegenstand_der_BWL.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/00_Index.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/z20261013_BWL_Einfuehrung_BWL.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Rechnungen.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Loesungen.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Definitionen.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/08_Teilgebiete_der_BWL.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/07_Konstitutive_Entscheidungsfelder.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/06_Fuehrung_und_Management.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/05_Leitbilder_Grundsaetze_und_Ziele.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/04_Subsysteme_eines_Betriebes.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/03_Basiskonzepte_und_Entscheidungstheorie.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/02_BWL_als_Wissenschaft.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Zusammenfassung_Einfuehrung_BWL/Zusammenfassung_Einfuehrung_BWL",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Zusammenfassung_Einfuehrung_BWL",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Rechnungen 1.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/00_Index 1.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Definitionen.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Loesungen 1.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Definitionen 1.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/08_Teilgebiete_der_BWL.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/07_Konstitutive_Entscheidungsfelder.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/06_Fuehrung_und_Management.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/05_Leitbilder_Grundsaetze_und_Ziele.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/04_Subsysteme_eines_Betriebes.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/03_Basiskonzepte_und_Entscheidungstheorie.md",
+    "Betriebswirschaftslehre/Einfuehrung_BWL/Zusammenfassung_Einfuehrung_BWL 1",
     "Data/Pdf/20261022_Mathe_U01.pdf",
-    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/Diskussion.md",
     "Data/Pdf/20261013_BWL_Einfuehrung_BWL_Einfuehrung.pdf",
-    "Betriebswirschaftslehre/Einfuehrung_BWL/20261013_BWL_Einfuehrung_BWL.md",
-    "Betriebswirschaftslehre/Buchfuehrung/20261012_BWL_Buchfuehrung.md",
     "Data/Img/IMG20261002144733.jpg",
     "Data/Img/IMG20260921161036.jpg",
     "Data/Img/Pasted image 20261019091815.png",
-    "Betriebswirschaftslehre/HGB.md",
     "Data/Img/Pasted image 20261019092017.png",
     "Data/Img/Pasted image 20261020095423.png",
     "Data/Img/Pasted image 20261020095454.png",
     "Data/Img/Pasted image 20261020095513.png",
     "Data/Pdf/20261016_Mathe.pdf",
-    "Informatik/Rechnerübung/20261014.md",
     "Mathematik",
-    "Informatik/Einfuehrung_der_Programmierung/20261012_GdP_Einfuehrung_VL_1.md",
     "Informatik/Rechnerübung",
     "Data/Pdf/20261012_BWL_Buchfuehrung_Einfuehrung.pdf",
-    "Betriebswirschaftslehre/EStG.md",
     "Data/Img/20261014_BWL_Einfuehrung_Marketing_Ablauf.png",
-    "Betriebswirschaftslehre/Vermögen.md",
-    "Betriebswirschaftslehre/Fremdkapital.md",
-    "Betriebswirschaftslehre/Eigenkapital.md",
-    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing/20261014_BWL_Einfuehrung_Marketing.md",
     "Data/Pdf/20261014_BWL_Einfuehrung_Marketing_KKV.pdf",
-    "Betriebswirschaftslehre/Einfuehrung_in_das_Marketing",
-    "Data/Pdf/20261013_BWL_Einfuehrung_BWL_Info.pdf",
-    "20261013_BWL_Einfuehrung_BWL_Einfuehrung.pdf.md",
-    "Wirschaftsinformatik/Einfuehrung_Wirtschaftsinformatik/20261012_WI_Einfuehrung_VL_1.md",
-    "Betriebswirschaftslehre/Einfuehrung_BWL",
     "Data/Img/20261012_Buchfuehrung_Tutorien.png",
-    "Orga/20261002_Orga.md",
-    "Orga/20261008.md",
-    "Untitled.md",
-    "Test.md",
-    "Start/20261002.md",
-    "Data/Img/IMG20261002145434.jpg",
-    "Welcome.md"
+    "Data/Img/IMG20261002145434.jpg"
   ]
 }
